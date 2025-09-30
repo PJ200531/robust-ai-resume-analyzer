@@ -1,0 +1,8 @@
+gradio
+pytesseract
+pdf2image
+PyPDF2
+python-docx
+Pillow
+scikit-learn
+nltk
